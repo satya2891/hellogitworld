@@ -16,3 +16,5 @@ This demo also includes an image with changes on a branch for examination of ima
 
 #This is edited for the demo purpose.
 #This is for the 'git push' demo purpose
+
+#This is for checking ssh remote connection
